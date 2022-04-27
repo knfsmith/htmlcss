@@ -1,0 +1,161 @@
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+h3 {
+  font-family: 'Kanit';
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Kanit';
+}
+
+.container-fluid {
+  padding: 3% 15% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Londrina Shadow';
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+#title {
+  background-color: #da0037;
+  margin-bottom: 15%;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.icon {
+  color: #da0037;
+  margin-bottom: 1rem;
+}
+
+#press {
+  background-color: #da0037;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/*Title Image */
+.titleimage {
+  max-width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+}
+
+@media screen and (max-width:1028px) {
+  .titleimage {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.pricehead {
+  font-size: 1.5rem;
+}
+
+.icon:hover {
+  color: #444444;
+}
+
+.smile {
+  border-radius: 100%;
+  width: 5rem;
+  height: 5rem;
+}
+
+.golf {
+  border-radius: 100%;
+  width: 5rem;
+  height: 5rem;
+}
+
+#Quotes {
+  text-align: center;
+  background-color: #da0037;
+  color: #fff;
+}
+
+#cta {
+  text-align: center;
+  background-color: #da0037;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.cta-bottom {
+  font-family: 'Kanit';
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 5%;
+}
+
+h2 {
+  font-family: 'Kanit';
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.muslo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#contact {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricecol {
+  padding: 3% 2%;
+}
